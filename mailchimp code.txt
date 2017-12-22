@@ -1,0 +1,191 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    
+  <style type="text/css">
+		body{
+			margin-left:0;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:0;
+			font-family:'Oswald',sans-serif;
+			background-color:#666666;
+		}
+</style></head>
+  <body>
+    <p>
+  </p>
+  <title>Welcome to ML International :: EXPO LOGISTICS</title>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+  <table width="580" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="top"> </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/445091c4-23e6-409b-8c68-112e262111ff.png" width="580" height="145" alt="" style="display:block;">
+      </td>
+    </tr>
+    <tr>
+      <td height="65" align="center" bgcolor="#80C340" style="font-size:20px;color:#fff;">
+        Door to Booth Shipping service  </td>
+        
+      </tr>
+      <tr>
+        <td height="65" align="center" bgcolor="#17919E" style="font-size:20px;color:#fff;">
+          <strong>WE ARE CURRENTLY SHIPPING TO </strong>  </td>
+          
+        </tr>
+        <tr>
+          <td align="center" valign="top">
+            
+            <table width="580" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="295" valign="top">
+                  <img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/191812b4-7207-4f38-a9e3-d797784b2b21.jpg" width="295" height="71" alt="" style="display:block;">
+                </td>
+                <td rowspan="2" bgcolor="#2C4D82" style="padding:0 20px;font-size:18px;color:#fff;">
+                  <p> Technology Show</p>
+                  <p>Jan 31 to Feb 1, 2018 </p>
+                  <p style="font-size:15px;">Olympia exhibiton centre, London</p>
+                </td>
+              </tr>
+              <tr>
+                <td valign="top">
+                  <img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/113d315f-72bb-4064-bbd8-b4f7c7609ebe.jpg" width="295" height="83" alt="" style="display:block;">
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td height="118" align="center" valign="top">
+            <img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/2ce47000-271e-4457-a81b-459b4f9997c8.jpg" width="580" height="118" alt="" style="display:block;">
+          </td>
+        </tr>
+        <tr>
+          <td align="center" valign="top">
+            <table width="580" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="237">
+                  <img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/0d352000-b9dc-4e2a-8f31-fcc0d168a11a.jpg" width="237" height="80" alt="" style="display:block;">
+                </td>
+                <td valign="top">
+                  <a href="http://www.mlintl.net/request-quote.html" target="_blank">
+                    <img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/78394e24-6891-43d9-9886-fc72bcfdeb69.jpg" alt="" width="343" height="80" border="0" style="display:block;"></a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" valign="top">
+              <table width="580" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="288" valign="top">
+                    <img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/22c089ff-1b4d-4313-b485-08fa8c418758.jpg" width="288" height="156" alt="" style="display:block;">
+                  </td>
+                  <td height="156" colspan="2" bgcolor="#2C4D82" style="padding:0 5px;font-size:17px;color:#fff;">
+                    <span>   Air Freight cut off date:</span>
+                    <br><span style="font-size:19px;">  - Jan 16, 2018</span>
+                    <br>
+                    <br><span style="font-size:17px;">   Delivery to stand:</span>
+                    <br><span style="font-size:19px;">  - Jan 29 to 30, 2018</span>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" valign="top">
+              <img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/f4f243f1-0b5e-4485-8c24-ef131348a69a.jpg" width="580" height="148" alt="" style="display:block;">
+            </td>
+          </tr>
+          <tr>
+            <td height="4" align="center" bgcolor="#7BBC3E">
+            </td>
+          </tr>
+          <tr>
+            <td align="center" bgcolor="#FFFFFF">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin:20px 0;">
+                <tr>
+                  <td width="40%" align="center">
+                    <img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/aa58a9a1-1e8e-48e7-a59c-43b8342ff88b.gif" alt="Clock" style="border-radius: 50%;">
+                  </td>
+                  <td align="center" style="font-family:arial;">
+                    <span style="font-style: italic">
+                      <strong style="color:#f15003;font-size:18px;">It's time to plan and order <br>
+                        your shipments<br>
+                        to this Show!!</strong>
+                      </span>
+                      <br>
+                      <br><span style="color:#2b4d80; font-size:18px;">Contact us for further assistance<strong style="font-size:24px;">
+                      <br>
+                      +1 630 355 5911</strong>
+                    </span>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td height="90" align="center" bgcolor="#80C340">
+              <a href="http://www.mlintl.net/request-quote.html" target="_blank">
+                <br><img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/e14530bb-0b0e-42cc-a914-b7ca3a0141a0.png" width="284" height="52" border="0" alt="askforashipmentquote_btn.png"></a>
+              </td>
+            </tr>
+            <tr>
+              <td align="center" valign="top" bgcolor="#80C340">
+                <a href="http://www.mlintl.net/request-quote.html" target="_blank">
+                  <img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/e7373c2a-10f2-4530-b770-04a86df24dbd.png" width="580" height="167" alt="footer1.png"></a>
+                </td>
+              </tr>
+              <tr>
+                <td height="54" align="center" bgcolor="#016A8F">
+                  <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td width="50%" style="color:#fff;font-size:30px;">(630) 355-5911</td>
+                      <td width="50%" align="right" style="color:#fff;font-size:30px;">
+                        <a href="http://www.mlintl.net" target="_blank" style="text-decoration:none;color:#fff;">www.mlintl.net</a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td height="80" align="center" bgcolor="#80C340">
+                  <a href="http://us14.forward-to-friend.com/forward?u=4ef90b0957d24f889acf2f78d&amp;id=7f1c4c5c02&amp;e=%5BUNIQID%5D" target="_blank">
+                    <img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/3794ba97-6f91-4bd0-97f6-02aecb1ae6a8.png" width="284" height="52" border="0" alt="forwardtoyourfriend.png"></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td height="80" align="center" bgcolor="#80C340">
+                    <p>
+                    <span style="padding:10px 0;">
+                      <a href="https://www.facebook.com/ML-International-101154959981705/?modal=composer&amp;notif_t=aymt_make_page_post_tip&amp;notif_id=1483997477150671" target="_blank">
+                        <img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/ef4f93bf-bd7c-4d1a-81a8-79ac4b021337.png" width="48" height="48" border="0" style="padding-left:10px;" title="Facebook" alt="facebook.png"></a> 
+                        <a href="https://www.linkedin.com/company/ml-international" target="_blank">
+                          <img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/28eb9a63-424c-4bdd-a024-9269090754e1.png" width="48" height="48" border="0" style="padding-left:10px;" title="LinkedIn" alt="linkedin.png"></a>  
+                          <a href="https://twitter.com/heller_mmr">
+                          </a> <a href="https://plus.google.com/u/0/102663436116551494628">
+                        </a> <a href="http://www.mlintl.net/" target="_blank">
+                        <img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/293fc010-44b4-455b-8c2e-7da6431f7645.png" width="48" height="48" border="0" style="padding-left:10px;" title="Fast Mold Removal" alt="link.png"></a>
+                      </span>
+                    </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td height="40" align="center" bgcolor="#000000">
+                    <span style="font-family:arial; font-size:14px; color:#fff;">280 Shuman Blvd., Suite 105, Naperville, IL 60563</span>
+                  </td>
+                </tr>
+                <tr>
+                  <td height="30" align="center">
+                    <span style="font-size:10px; color:#fff;font-family:arial;">If you don't want to receive updates. please <a href="#" style="color:#0db9ea;">unsubscribe</a>
+                  </span>
+                </td>
+              </tr>
+            </table>
+          </body>
+</html>
