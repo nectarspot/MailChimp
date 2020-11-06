@@ -20,7 +20,7 @@
   <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
   <table width="580" border="0" align="center" cellpadding="0" cellspacing="0">
     <tr>
-      <td align="center" valign="top"> </td>
+      <td align="center" valign="top">Â </td>
     </tr>
     <tr>
       <td align="center" valign="top">
@@ -87,11 +87,11 @@
                     <img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/22c089ff-1b4d-4313-b485-08fa8c418758.jpg" width="288" height="156" alt="" style="display:block;">
                   </td>
                   <td height="156" colspan="2" bgcolor="#2C4D82" style="padding:0 5px;font-size:17px;color:#fff;">
-                    <span>   Air Freight cut off date:</span>
-                    <br><span style="font-size:19px;">  - Jan 16, 2018</span>
+                    <span>Â Â Â Air Freight cut off date:</span>
+                    <br><span style="font-size:19px;">Â Â - Jan 16, 2018</span>
                     <br>
-                    <br><span style="font-size:17px;">   Delivery to stand:</span>
-                    <br><span style="font-size:19px;">  - Jan 29 to 30, 2018</span>
+                    <br><span style="font-size:17px;">Â Â Â Delivery to stand:</span>
+                    <br><span style="font-size:19px;">Â Â - Jan 29 to 30, 2018</span>
                   </td>
                 </tr>
               </table>
@@ -164,9 +164,9 @@
                     <p>
                     <span style="padding:10px 0;">
                       <a href="https://www.facebook.com/ML-International-101154959981705/?modal=composer&amp;notif_t=aymt_make_page_post_tip&amp;notif_id=1483997477150671" target="_blank">
-                        <img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/ef4f93bf-bd7c-4d1a-81a8-79ac4b021337.png" width="48" height="48" border="0" style="padding-left:10px;" title="Facebook" alt="facebook.png"></a> 
+                        <img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/ef4f93bf-bd7c-4d1a-81a8-79ac4b021337.png" width="48" height="48" border="0" style="padding-left:10px;" title="Facebook" alt="facebook.png"></a>Â 
                         <a href="https://www.linkedin.com/company/ml-international" target="_blank">
-                          <img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/28eb9a63-424c-4bdd-a024-9269090754e1.png" width="48" height="48" border="0" style="padding-left:10px;" title="LinkedIn" alt="linkedin.png"></a>  
+                          <img src="https://gallery.mailchimp.com/4ef90b0957d24f889acf2f78d/images/28eb9a63-424c-4bdd-a024-9269090754e1.png" width="48" height="48" border="0" style="padding-left:10px;" title="LinkedIn" alt="linkedin.png"></a>Â Â 
                           <a href="https://twitter.com/heller_mmr">
                           </a> <a href="https://plus.google.com/u/0/102663436116551494628">
                         </a> <a href="http://www.mlintl.net/" target="_blank">
@@ -187,5 +187,6 @@
                 </td>
               </tr>
             </table>
+	    <p>This is to check if we get notification permission to respective mail or not</p>
           </body>
 </html>
